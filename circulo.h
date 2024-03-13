@@ -4,7 +4,7 @@
 #include "figura.h"
 
 class Circulo: public Figura{
-    int r; 
+    int r;
     Circulo(int b, int h):Figura(b,h){}
 }; 
 
