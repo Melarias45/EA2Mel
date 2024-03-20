@@ -4,7 +4,7 @@
 #include "figura.h"
 
 class Rectangulo: public Figura{
-
+    public: 
     Rectangulo(int b, int h):Figura(b,h){}
 }; 
 
